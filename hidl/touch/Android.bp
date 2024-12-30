@@ -25,7 +25,7 @@ cc_binary {
         "KeyDisabler.cpp",
         "StylusMode.cpp",
         "TouchscreenGesture.cpp",
-        "service.cpp"
+        "service.cpp",
     ],
     shared_libs: [
         "libbase",

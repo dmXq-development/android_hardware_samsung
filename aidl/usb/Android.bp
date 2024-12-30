@@ -29,7 +29,7 @@ cc_binary {
         "android.hardware.usb-V1-ndk",
         "libbase",
         "libbinder_ndk",
-	"libcutils",
+        "libcutils",
         "liblog",
         "libutils",
     ],

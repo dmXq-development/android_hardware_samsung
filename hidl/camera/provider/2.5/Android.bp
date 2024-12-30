@@ -37,7 +37,7 @@ cc_library_shared {
     header_libs: [
         "camera.device@3.4-impl_headers",
         "camera.device@3.5-impl_headers",
-        "libhardware_headers.camera3_samsung"
+        "libhardware_headers.camera3_samsung",
     ],
     export_include_dirs: ["."],
 }
@@ -76,7 +76,7 @@ cc_defaults {
     header_libs: [
         "camera.device@3.4-impl_headers",
         "camera.device@3.5-impl_headers",
-        "libhardware_headers.camera3_samsung"
+        "libhardware_headers.camera3_samsung",
     ],
 }
 

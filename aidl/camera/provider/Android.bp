@@ -25,7 +25,7 @@ cc_defaults {
     name: "camera_service_aidl_defaults.samsung",
     defaults: [
         "extra_id_defaults",
-        "samsung_camera3_defaults"
+        "samsung_camera3_defaults",
     ],
     vintf_fragments: ["android.hardware.camera.provider-service.samsung.xml"],
     vendor: true,
