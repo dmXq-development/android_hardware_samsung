@@ -21,6 +21,7 @@ cc_library_shared {
         "camera.device@3.3-impl.samsung",
         "camera.device@3.4-impl.samsung",
         "camera.device@3.5-impl.samsung",
+        "libbase",
         "libcamera_metadata",
         "libcutils",
         "libhardware",
